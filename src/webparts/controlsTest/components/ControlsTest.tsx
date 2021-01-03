@@ -698,7 +698,7 @@ export default class ControlsTest extends React.Component<IControlsTestProps, IC
           <TaxonomyPicker
             allowMultipleSelections={true}
             //termsetNameOrID="61837936-29c5-46de-982c-d1adb6664b32" // id to termset that has a custom sort
-            termsetNameOrID="8ea5ac06-fd7c-4269-8d0d-02f541df8eb9"
+            termsetNameOrID="Prosesser"
             initialValues={[{
               key: "c05250ff-80e7-41e6-bfb3-db2db62d63d3",
               name: "Business",
